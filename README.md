@@ -1,2 +1,3 @@
-# editors-docs
-Programming Editors Docs
+# Editors Helpful Documentation for Programming Languages
+
+1. [VS Code](vscode/README.md)
